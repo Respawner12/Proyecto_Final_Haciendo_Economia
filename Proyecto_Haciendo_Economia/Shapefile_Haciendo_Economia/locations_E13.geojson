@@ -1,0 +1,80 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1,
+        "name": "Torre Colpatria / Hotel Tequendama",
+        "description": "Plazoleta sobre Carrera 7 con alto flujo de empleados de banca y consultorías."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0703,
+          4.6095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2,
+        "name": "Parque Central Bavaria",
+        "description": "Zona verde y comercial entre Calle 30 y Carrera 13, punto de almuerzo para trabajadores."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.06908976619978,
+          4.616625723716891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3,
+        "name": "Torre Atrio",
+        "description": "Explanada de la Torre Atrio (Calle 26 × Carrera 13) con afluencia de profesionales y visitantes."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.07138242706478,
+          4.616501504832981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4,
+        "name": "Estación TM Museo Nacional",
+        "description": "Intercambiador de TransMilenio en Carrera 7 con Calle 28, pico de salida vespertina."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0695,
+          4.6144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 5,
+        "name": "Centro Comercial San Martín",
+        "description": "Pasillos y plazoleta del Centro Comercial San Martín, afluencia constante de trabajadores y visitantes."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.06786504006737,
+          4.6189704536069085
+        ]
+      }
+    }
+  ]
+}
